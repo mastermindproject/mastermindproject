@@ -1,0 +1,2 @@
+# Mastermind Project
+## Mastermind (MMD) token is a decentralized, deflationary digital currency that is design with a community-first approach to providing alternative solutions to our post COVID-19 financial realities. The currency was built with the aim to utilize the collective strength of the community and blockchain technology to improve the financial wellbeing of every individual within the Mastermind ecosystem.
